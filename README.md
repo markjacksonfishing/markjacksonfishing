@@ -1,16 +1,27 @@
-[![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)](https://github.com/markyjackson-taulia)
+![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)
 
-Hi there, it's great to meet you! My name is Marky Jackson, and I'm passionate about spending time with family and friends and rooting for the San Francisco Giants.
+### Greetings,
 
-I graduated from the Massachusetts Institute of Technology with a Bachelor's degree in computer science. Throughout my career, I've had the pleasure of collaborating with top companies such as Blue Cross of California, Yahoo!, Symantec, HP, AT&T Labs, Sysdig, Hightail (formerly Yousendidit), Equinix Metal (formerly Packet), and Jasmine Multimedia.
+My name is Mark Jackson. I am the founder of [Anuclei](https://anuclei.com) and a passionate advocate for technology and innovation. I take pride in my personal life, cherishing time spent with family and friends, and am an avid supporter of the San Francisco Giants.
 
-Additionally, I'm proud to have served in the United States Army, supporting operations in Iraq and Afghanistan during multiple phases.
+#### Education and Professional Journey
 
-I'm excited to share my knowledge and experiences with you and look forward to connecting soon. Thanks for taking the time to read a bit about me!
+I hold a Bachelor's degree in Computer Science from the prestigious Massachusetts Institute of Technology. My professional journey has been marked by collaborations with leading companies such as Blue Cross of California, Yahoo!, Symantec, HP, AT&T Labs, Sysdig, Hightail (formerly Yousendidit), Equinix Metal (formerly Packet), and Jasmine Multimedia. Additionally, I have the honor of serving in the United States Army, contributing to operations in Iraq and Afghanistan.
 
+#### Contributions and Achievements
 
-I was previously a [Jenkins Goverence Board as well as the Jenkins Events Officer](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ), am currently a Kubernetes Org member, previously a [Kubernetes project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), once a [Kubernetes Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md), formerly a [Continuous Delivery Foundation Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), once a [Jenkins core contributor](https://www.jenkins.io/blog/authors/markyjackson-taulia/), previously a [Jenkins Google Summer of Code org admin and mentor](https://www.jenkins.io/sigs/gsoc/), formerly a [Google Summer of Docs org admin and mentor](https://www.jenkins.io/sigs/docs/gsod/), previously helped with software development, and community management on the [Ortelius Project](https://ortelius.io), formerly a [mentoring lead within the Kubernetes project](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6), previously a [Kubernetes Moderation Co-lead](https://github.com/kubernetes/community/blob/master/communication/moderators.md), as well as a previous [Kubernetes Outreachy coordinator for the Kubernetes project](https://www.outreachy.org/communities/cfp/kubernetes/), previously helped with software development on the [Falco Project](https://falco.org), previosuly a member of several Kubernetes release teams in a shadow capacity, previously served on the board of directors for [Operation Dvoretskyi](https://www.operationdvoretskyi.org), and formerly a maintainer of several Jenkins plugins.
+- **Jenkins Community**: Served on the [Jenkins Governance Board](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ) and as Jenkins Events Officer.
+- **Kubernetes Ecosystem**: Active as a Kubernetes Org member, [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), and [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).
+- **Continuous Delivery Foundation**: Former [Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/) and Jenkins core contributor.
+- **Mentorship and Leadership**: Engaged in Google Summer of Code, Google Summer of Docs, the [Ortelius Project](https://ortelius.io), and within the Kubernetes community as a [mentoring lead](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) and [Moderation Co-lead](https://github.com/kubernetes/community/blob/master/communication/moderators.md).
+- **Public Speaking and Writing**: Profiled by [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/), delivered [public talks](https://www.youtube.com/watch?v=h4hKSXjCqyI), and authored [technical blogs](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/).
+- **Awards and Recognition**: Named the [Most Valuable Jenkins Advocate](https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced) and recipient of the [Kubernetes Contribex Contributor award](https://www.kubernetes.dev/community/awards/2022/#contributor-experience) at KubeconNA 2022.
 
-I have had profiles in the [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/) and other mediums. In the past, I have  [spoken publicly](https://www.youtube.com/watch?v=h4hKSXjCqyI) and enjoyed writing [blogs on technical topics](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/). Previously, I was named the [Most Valuable Jenkins Advocate](https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced), and at KubeconNA 2022, I was awarded the [Kubernetes Contribex Contributor award](https://www.kubernetes.dev/community/awards/2022/#contributor-experience).
+#### Personal Interests
 
-Finally, it's no secret I love food. Some of my and others' fantastic recipes are in this awesome [cloud-native cookbook](https://github.com/cncf/cloud-native-community-cookbook).
+I am also a culinary enthusiast, contributing to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook) with my own and others' delightful recipes.
+
+Looking forward to the opportunity to connect and share my knowledge and experiences. Thank you for taking the time to learn a bit about me.
+
+Best Regards,  
+Mark Jackson  
