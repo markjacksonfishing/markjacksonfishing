@@ -11,7 +11,7 @@ I hold a Bachelor's degree in Computer Science from the prestigious Massachusett
 #### Contributions and Achievements
 
 - **Jenkins Community**: Served on the [Jenkins Governance Board](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ) and as Jenkins Events Officer.
-- **Kubernetes Ecosystem**: Active as a Kubernetes Org member, [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), and [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).
+- **Kubernetes Ecosystem**: Served as a Kubernetes Org member, [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), and [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).
 - **Continuous Delivery Foundation**: Former [Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/) and Jenkins core contributor.
 - **Mentorship and Leadership**: Engaged in Google Summer of Code, Google Summer of Docs, the [Ortelius Project](https://ortelius.io), and within the Kubernetes community as a [mentoring lead](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) and [Moderation Co-lead](https://github.com/kubernetes/community/blob/master/communication/moderators.md).
 - **Public Speaking and Writing**: Profiled by [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/), delivered [public talks](https://www.youtube.com/watch?v=h4hKSXjCqyI), and authored [technical blogs](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/).
