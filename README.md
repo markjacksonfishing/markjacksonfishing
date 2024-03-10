@@ -4,7 +4,7 @@
 
 My name is Mark Jackson. I am the founder of [Anuclei](https://anuclei.com) and a passionate advocate for technology and innovation. I take pride in my personal life, cherishing time spent with family and friends, and am an avid supporter of the San Francisco Giants.
 
-In addition to my professional pursuits, I am honored to serve as an ambassador for notable brands within the fishing community, reflecting my enthusiasm for the outdoors and angling. These partnerships include [Pulse Fish Lures](https://pulsefishlures.com), [Empire Fishing Rods](https://empirefishingrods.com), and [Keep it Reel Clothing](https://www.keepitreelclothing.com), each distinguished for their commitment to quality and innovation in the fishing experience.
+In addition to my professional pursuits, I am honored to serve as an ambassador for notable brands within the fishing community, reflecting my enthusiasm for the outdoors and angling. These partnerships included [Bassfinity](https://bassfinity.com),[Pulse Fish Lures](https://pulsefishlures.com), [Empire Fishing Rods](https://empirefishingrods.com), and [Keep it Reel Clothing](https://www.keepitreelclothing.com), each distinguished for their commitment to quality and innovation in the fishing experience.
 
 #### Education and Professional Journey
 
