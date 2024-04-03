@@ -2,10 +2,10 @@
 
 ### Greetings,
 
-My name is Mark Jackson. I am the founder of [Anuclei](https://anuclei.com) and a passionate advocate for technology and innovation. I take pride in my personal life, cherishing time spent with family and friends, and am an avid supporter of the San Francisco Giants.
+My name is Mark Jackson. I am the founder of [Anuclei](https://anuclei.com) and a passionate advocate for technology and innovation. I take pride in my personal life, cherish time spent with family and friends, and avidly support the San Francisco Giants.
 
-In addition to my professional pursuits, I am honored to serve as an ambassador for notable brands within the fishing community, reflecting my enthusiasm for the outdoors and angling. These partnerships included [Bassfinity](https://bassfinity.com).
 
+In addition to my professional pursuits, I am honored to serve as an ambassador for notable brands within the fishing community, reflecting my enthusiasm for the outdoors and angling. These partnerships included [Bassfinity](https://bassfinity.com), [Pulse Fishing Lures](https://pulsefishlures.com), [Empire Fishing Rods](https://www.empirefishingrods.com), and [Keep it Reel Clothing[(https://www.keepitreelclothing.com)
 #### Education and Professional Journey
 
 I hold a Bachelor's degree in Computer Science from the prestigious Massachusetts Institute of Technology. My professional journey has been marked by collaborations with leading companies such as Blue Cross of California, Yahoo!, Symantec, HP, AT&T Labs, Sysdig, Hightail (formerly YouSendIt), Equinix Metal (formerly Packet), and Jasmine Multimedia. Additionally, I have the honor of serving in the United States Army, contributing to operations in Iraq and Afghanistan.
