@@ -10,6 +10,7 @@ I hold a Bachelor's degree in Computer Science from the prestigious Massachusett
 
 #### Contributions and Achievements
 
+- **Backstage Community**: Currently helping the Backstage community write the [Backstage integrator guide](https://github.com/backstage/backstage/issues/21945)
 - **Jenkins Community**: Served on the [Jenkins Governance Board](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ) and as Jenkins Events Officer.
 - **Kubernetes Ecosystem**: Served as a Kubernetes Org member, [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), and [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).
 - **Continuous Delivery Foundation**: Former [Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/) and Jenkins core contributor.
