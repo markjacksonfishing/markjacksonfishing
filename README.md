@@ -27,9 +27,9 @@ Our mission is to provide foster children with meaningful outdoor experiences th
 
 ##### How We Make a Difference
 
-Fishing Excursions: Regularly organized fishing trips that offer hands-on learning experiences.
-Mentorship Programs: Each child is paired with a mentor who provides guidance, support, and companionship.
-Educational Workshops cover everything from fishing techniques to aquatic ecology and conservation.
+* Fishing Excursions: Regularly organized fishing trips that offer hands-on learning experiences.
+* Mentorship Programs: Each child is paired with a mentor who provides guidance and support.
+* Educational Workshops cover everything from fishing techniques to aquatic ecology and conservation.
 
 I am also a culinary enthusiast, contributing to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook) with my own and others' delightful recipes.
 
