@@ -20,6 +20,17 @@ I hold a Bachelor's degree in Computer Science from the prestigious Massachusett
 
 #### Personal Interests
 
+In addition to my professional pursuits, I am thrilled to introduce Bassfinity, a non-profit organization dedicated to enriching the lives of children in the foster care system through the art of fishing. Founded on the belief that every child deserves a chance to experience the joy and tranquility of angling, Bassfinity aims to teach fishing skills that foster patience, resilience, and a deep appreciation for nature.
+
+##### Mission and Vision
+Our mission is to provide foster children with meaningful outdoor experiences that promote personal growth and a lifelong love for the outdoors. By partnering with local communities and fishing enthusiasts, we create safe and supportive environments where these children can learn, play, and thrive.
+
+##### How We Make a Difference
+
+Fishing Excursions: Regularly organized fishing trips that offer hands-on learning experiences.
+Mentorship Programs: Each child is paired with a mentor who provides guidance, support, and companionship.
+Educational Workshops cover everything from fishing techniques to aquatic ecology and conservation.
+
 I am also a culinary enthusiast, contributing to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook) with my own and others' delightful recipes.
 
 Looking forward to the opportunity to connect and share my knowledge and experiences. Thank you for taking the time to learn a bit about me.
