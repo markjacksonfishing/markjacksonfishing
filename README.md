@@ -2,7 +2,7 @@
 
 ### Greetings,
 
-My name is Mark Jackson. I am the founder and CEO of [Anuclei](https://anuclei.com), where we are dedicated to driving technological innovation and excellence. With a strong foundation in both personal and professional life, I cherish time spent with family and friends, and I'm an avid supporter of the San Francisco Giants.
+My name is Mark Jackson. I am the founder and CEO of [Anuclei](https://anuclei.com), where we drive technological innovation and excellence. With a strong foundation in both personal and professional life, I cherish time spent with family and friends, and I'm an avid supporter of the San Francisco Giants.
 
 #### Professional Journey
 
