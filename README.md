@@ -1,12 +1,10 @@
----
-
 ![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)
 
 ---
 
 ### Greetings,
 
-My name is Mark Jackson. I am a Principal Software Engineer at [Anuclei](https://anuclei.com), where we drive technological innovation and excellence. With a strong foundation in both personal and professional life, I cherish time spent with family and friends, and I'm an avid supporter of the San Francisco Giants.
+My name is Mark Jackson. I am the founder and software developer in residence at [Anuclei](https://anuclei.com), where we drive technological innovation and excellence. I hold both a BA and a master's degree from MIT. With a strong foundation in both personal and professional life, I cherish time spent with family and friends, and I'm an avid supporter of the San Francisco Giants.
 
 #### Professional Journey
 
@@ -24,13 +22,10 @@ Throughout my career, I've had the privilege of collaborating with leading compa
 
 #### My Role at Anuclei
 
-In my current role as the Principal Software Engineer at Anuclei, I have been at the forefront of developing innovative solutions in healthcare technology and creating scalable, secure infrastructure solutions. My previous experience as Chief Technologist at Booz Allen Hamilton allowed me to lead technical solutions for high-stakes projects, particularly with the Air Force/Space Force, where I delivered mission-critical systems with precision and efficiency. At Equinix Metal, I was a Senior Software Engineering Manager, managing critical projects and architecting distributed systems for cloud control and automation.
+In my current role at Anuclei, I have been at the forefront of developing innovative solutions in healthcare technology and creating scalable, secure infrastructure solutions. My previous experience as Chief Technologist at Booz Allen Hamilton allowed me to lead technical solutions for high-stakes projects, particularly with the Air Force/Space Force, where I delivered mission-critical systems with precision and efficiency. At Equinix Metal, I was a Senior Software Engineering Manager, managing critical projects and architecting distributed systems for cloud control and automation.
 
 #### Personal Interests
 
 Outside of my professional endeavors, I am a culinary enthusiast, contributing to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook) with my own and others' delightful recipes. Additionally, I deeply enjoy bass fishing, a hobby that brings me peace and a deep connection with nature.
 
 I look forward to the opportunity to connect and share my knowledge and experiences. Thank you for taking the time to learn about me.
-
----
-
