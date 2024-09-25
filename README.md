@@ -12,7 +12,6 @@ Throughout my career, I've had the privilege of collaborating with leading compa
 
 #### Contributions and Achievements
 
-- **Backstage Community**: Currently assisting the community in writing the [Backstage integrator guide](https://github.com/backstage/backstage/issues/21945).
 - **Jenkins Community**: Served on the [Jenkins Governance Board](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ) and as Jenkins Events Officer.
 - **Kubernetes Ecosystem**: Held roles as a Kubernetes Org member, [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), and [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).
 - **Continuous Delivery Foundation**: Former [Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/) and Jenkins core contributor.
