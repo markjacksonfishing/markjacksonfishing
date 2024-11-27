@@ -10,6 +10,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
 
 #### Contributions and Achievements
 
+- **Exam Developer Certified Backstage Associate**: https://www.credly.com/badges/1b5a6de3-e6d9-452b-8752-ff8687a94d3a
 - **AI and Open Source Contributions**: Contributed to open-source communities focused on machine learning, cloud-native development, and AI frameworks.
 - **Jenkins Community**: Served on the [Jenkins Governance Board](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ) and as Jenkins Events Officer.
 - **Kubernetes Ecosystem**: Actively engaged as a Kubernetes Org member, [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), and [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).
