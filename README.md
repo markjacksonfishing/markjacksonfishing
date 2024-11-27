@@ -21,7 +21,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
 - **Mentorship and Leadership**: Engaged in Google Summer of Code, Google Summer of Docs, the [Ortelius Project](https://ortelius.io), and within the Kubernetes community as a [mentoring lead](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) and [Moderation Co-lead](https://github.com/kubernetes/community/blob/master/communication/moderators.md).
 - **Public Speaking and Writing**: Profiled by [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/), delivered [talks](https://www.youtube.com/watch?v=h4hKSXjCqyI) on AI and machine learning applications, [Jenkins blogs](https://www.jenkins.io/blog/authors/markyjackson-taulia/), and authored [technical blogs](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/).
 - **Awards and Recognition**: Honored as the [Most Valuable Jenkins Advocate](https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced) and recipient of the [Kubernetes Contribex Contributor award](https://www.kubernetes.dev/community/awards/2022/#contributor-experience) at KubeconNA 2022.
-- **2019 Google Summer of Code Mentor**: [Org Details](https://summerofcode.withgoogle.com/archive/2019/organizations/4658407594786816) [Blog](https://www.jenkins.io/blog/2019/10/08/google-summer-of-code-mentor-and-org-admin-perspective/)
+- **2019 Google Summer of Code Mentor**: [Org Details](https://summerofcode.withgoogle.com/archive/2019/organizations/4658407594786816) and [blogs](https://www.jenkins.io/blog/2019/10/08/google-summer-of-code-mentor-and-org-admin-perspective/)
 
 #### My Role at Anuclei
 
