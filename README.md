@@ -1,8 +1,8 @@
 ![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)
 
 <div align="center">
-  <h2>📊 My All-Time GitHub Stats</h2>
-  <img src="./metrics.svg?v=1" alt="Mark Jackson's GitHub Metrics" />
+  <h2>📊 My All-Time GitHub Contributions</h2>
+  <img src="https://github-contributions.vercel.app/api/v1/contributions/markjacksonfishing?format=long" alt="Mark Jackson's GitHub Contributions" />
 </div>
 
 My name is Mark Jackson. I combine a deep passion for innovation with a commitment to creating meaningful impact through technology. With a BA and master’s degree from MIT, I’ve explored the intersections of artificial intelligence, data science, and cloud-native solutions.
