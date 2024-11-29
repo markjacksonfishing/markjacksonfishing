@@ -2,7 +2,8 @@
 
 <div align="center">
   <h2>📊 My All-Time GitHub Contributions</h2>
-  <img src="https://github-contributions.vercel.app/api/v1/contributions/markjacksonfishing?format=long" alt="Mark Jackson's GitHub Contributions" />
+  <img src="[Contributions](https://github.com/markjacksonfishing/markjacksonfishing/blob/main/contributions.png)" alt="Mark Jackson's GitHub Contributions" />
+  <p>Total Contributions: <b>22,677</b></p>
 </div>
 
 My name is Mark Jackson. I combine a deep passion for innovation with a commitment to creating meaningful impact through technology. With a BA and master’s degree from MIT, I’ve explored the intersections of artificial intelligence, data science, and cloud-native solutions.
