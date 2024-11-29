@@ -24,20 +24,40 @@ My name is Mark Jackson. I combine a deep passion for innovation with a commitme
 
 Throughout my career, I've had the privilege of collaborating with leading technology companies, such as Blue Cross of California, Yahoo!, Symantec, HP, AT&T Labs, Sysdig, Hightail (formerly YouSendIt), Equinix Metal (formerly Packet), and Jasmine Multimedia. My professional journey has also been shaped by my service in the United States Army, where I have contributed to high-stakes operations in Iraq and Afghanistan.
 
-#### Contributions and Achievements
+### Contributions and Achievements  
 
-- **Exam Developer of the Certified Backstage Associate Certification**: [View Certification](https://www.credly.com/badges/1b5a6de3-e6d9-452b-8752-ff8687a94d3a)
-- **cdCon 2020 Speaker**: [View Certification](https://www.credly.com/badges/b59dd708-ab91-45b9-bed2-c9d3f132efcf/public_url)
-- **cdCon 2022 Speaker**: [View Certification](https://www.credly.com/badges/554b47b8-260b-4f25-8392-6825330e7103/public_url)
-- **Speaker: KubeCon + CloudNativeCon North America 2022**: [View Certification](https://www.credly.com/badges/75f117fb-c312-4baf-811a-9be3d5179203/public_url)
-- **AI and Open Source Contributions**: Contributed to open-source communities focused on machine learning, cloud-native development, and AI frameworks.
-- **Jenkins Community**: Served on the [Jenkins Governance Board](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ) and as Jenkins Events Officer.
-- **Kubernetes Ecosystem**: Actively engaged as a Kubernetes Org member, [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980), and [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).
-- **Continuous Delivery Foundation**: Former [Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/) and Jenkins core contributor, with significant contributions to CI/CD and MLOps integration.
-- **Mentorship and Leadership**: Engaged in Google Summer of Code, Google Summer of Docs, the [Ortelius Project](https://ortelius.io), and within the Kubernetes community as a [mentoring lead](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6) and [Moderation Co-lead](https://github.com/kubernetes/community/blob/master/communication/moderators.md).
-- **Public Speaking and Writing**: Profiled by [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/), delivered [talks](https://www.youtube.com/watch?v=h4hKSXjCqyI) on AI and machine learning applications, [Jenkins blogs](https://www.jenkins.io/blog/authors/markyjackson-taulia/), and authored [technical blogs](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/).
-- **Awards and Recognition**: Honored as the [Most Valuable Jenkins Advocate](https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced) and recipient of the [Kubernetes Contribex Contributor award](https://www.kubernetes.dev/community/awards/2022/#contributor-experience) at KubeconNA 2022.
-- **2019 Google Summer of Code Mentor**: [Org Details](https://summerofcode.withgoogle.com/archive/2019/organizations/4658407594786816) and [blogs](https://www.jenkins.io/blog/2019/10/08/google-summer-of-code-mentor-and-org-admin-perspective/)
+#### 🏆 Certifications and Speaking Engagements  
+- **Exam Developer**: Certified Backstage Associate Certification – [View Certification](https://www.credly.com/badges/1b5a6de3-e6d9-452b-8752-ff8687a94d3a)  
+- **Speaker**:  
+  - cdCon 2020 – [View Certification](https://www.credly.com/badges/b59dd708-ab91-45b9-bed2-c9d3f132efcf/public_url)  
+  - cdCon 2022 – [View Certification](https://www.credly.com/badges/554b47b8-260b-4f25-8392-6825330e7103/public_url)  
+  - KubeCon + CloudNativeCon North America 2022 – [View Certification](https://www.credly.com/badges/75f117fb-c312-4baf-811a-9be3d5179203/public_url)  
+
+#### 🔧 Open Source and Community Contributions  
+- **AI and Open Source**: Contributed to machine learning, cloud-native development, and AI frameworks.  
+- **Jenkins Community**:  
+  - Served on the [Governance Board](https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ)  
+  - Held the role of Jenkins Events Officer.  
+- **Kubernetes Ecosystem**:  
+  - Active Org member and [project moderator co-lead](https://github.com/kubernetes/community/pull/5783#issuecomment-841935980)  
+  - [Release Manager Associate](https://github.com/markyjackson-taulia/sig-release/blob/master/release-managers.md).  
+
+#### 🤝 Mentorship and Leadership  
+- **Continuous Delivery Foundation**: Former [Ambassador](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/), contributing to CI/CD and MLOps integration.  
+- **Google Summer of Code Mentor (2019)**:  
+  - [Org Details](https://summerofcode.withgoogle.com/archive/2019/organizations/4658407594786816)  
+  - Shared insights in [GSoC blog](https://www.jenkins.io/blog/2019/10/08/google-summer-of-code-mentor-and-org-admin-perspective/).  
+- **Kubernetes Mentoring**: Mentoring Lead in Kubernetes community – [Details](https://github.com/kubernetes/community/blob/master/mentoring/OWNERS#L6)  
+- **Ortelius Project**: Engaged in leadership and guidance.  
+
+#### 📢 Public Speaking and Writing  
+- Featured by [CNCF](https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/).  
+- Delivered [talks](https://www.youtube.com/watch?v=h4hKSXjCqyI) on AI and machine learning.  
+- Authored [Jenkins blogs](https://www.jenkins.io/blog/authors/markyjackson-taulia/) and [technical blogs](https://cd.foundation/blog/2020/05/29/mlops-an-introduction/).  
+
+#### 🌟 Awards and Recognition  
+- **Most Valuable Jenkins Advocate**: Recognized at [DevOps World 2020](https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced).  
+- **Kubernetes Contribex Contributor Award**: Received at [KubeCon North America 2022](https://www.kubernetes.dev/community/awards/2022/#contributor-experience).  
 
 #### My Role at Anuclei
 
