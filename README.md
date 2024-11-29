@@ -2,22 +2,23 @@
 
 My name is Mark Jackson. I am the founder and AI developer in residence at [Anuclei](https://anuclei.com), where we are at the forefront of data science, machine learning, and artificial intelligence innovation. I hold a BA and a master's degree from MIT. A strong foundation in my personal and professional life grounds me. I cherish time spent with family and friends, and I am an avid supporter of the San Francisco Giants.
 
-### Tech Stack & Expertise
-
-![Cloud Native](https://img.shields.io/badge/Cloud%20Native-CNCF-informational?style=for-the-badge&logo=cloudsmith&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)  
-![Golang](https://img.shields.io/badge/Go-1.19-blue?style=for-the-badge&logo=go&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-Analysis-informational?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-important?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-CICD-success?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-Automation-orange?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-green?style=for-the-badge&logo=github-actions&logoColor=white)  
+<div align="center">
+  <h2>Tech Stack & Expertise</h2>
+  <img src="https://img.shields.io/badge/Cloud%20Native-CNCF-informational?style=for-the-badge&logo=cloudsmith&logoColor=white" alt="Cloud Native" />
+  <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-1.19-blue?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Data%20Science-Analysis-informational?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Modeling-important?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/DevOps-CICD-success?style=for-the-badge&logo=jenkins&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Jenkins-Automation-orange?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Automation-green?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</div> 
 
 #### Professional Journey
 
