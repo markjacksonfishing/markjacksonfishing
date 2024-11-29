@@ -32,6 +32,16 @@ Throughout my career, I've had the privilege of collaborating with leading techn
 
 <div align="center">
   <h2>🎖️ Contributions and Achievements 🎖️</h2>
+  
+  <!-- Badge Images -->
+  <div>
+    <img src="./cdcon-2020-speaker.png" alt="cdCon 2020 Speaker" width="150" height="150" />
+    <img src="./cdcon-2022-speaker.png" alt="cdCon 2022 Speaker" width="150" height="150" />
+    <img src="./exam-developer-certified-backstage-associate.png" alt="Certified Backstage Associate" width="150" height="150" />
+    <img src="./speaker-kubecon-cloudnativecon-north-america-2022.png" alt="KubeCon 2022 Speaker" width="150" height="150" />
+  </div>
+  
+  <!-- Table of Achievements -->
   <table>
     <tr>
       <td><strong>🏆 Certifications</strong></td>
