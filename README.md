@@ -1,4 +1,4 @@
-![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)
+![Mark Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)
 
 <div align="center">
   <h2>📊 My All-Time GitHub Contributions</h2>
@@ -84,4 +84,6 @@ As the founder of [Anuclei](https://anuclei.com), I steer a unique venture that 
 
 #### Personal Interests
 
-Beyond professional pursuits, I am a culinary enthusiast. I contribute my own and others' recipes to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook). Additionally, I enjoy bass fishing, a pastime that brings balance and peace.
+Beyond professional pursuits, I am a culinary enthusiast. I have contributed my own recipes to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook). Additionally, I enjoy bass fishing, a pastime that brings balance and peace.
+
+![Mark Jackson in nature](https://i.ibb.co/jHLMVLm/61-E6606-E-1-F4-F-42-A4-A86-A-AD4-D24-D22-C4-D.jpg)
