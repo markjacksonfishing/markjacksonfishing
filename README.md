@@ -2,7 +2,6 @@
 
 <div align="center">
   <h2>📊 My All-Time GitHub Stats</h2>
-
   <img src="./metrics.svg" alt="Mark Jackson's GitHub Metrics" />
 </div>
 
