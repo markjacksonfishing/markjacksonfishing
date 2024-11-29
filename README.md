@@ -1,6 +1,6 @@
 ![Marky Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)
 
-My name is Mark Jackson. I am the founder and AI developer in residence at [Anuclei](https://anuclei.com), where we are at the forefront of data science, machine learning, and artificial intelligence innovation. I hold a BA and a master's degree from MIT. A strong foundation in my personal and professional life grounds me. I cherish time spent with family and friends, and I am an avid supporter of the San Francisco Giants.
+My name is Mark Jackson. I combine a deep passion for innovation with a commitment to creating meaningful impact through technology. With a BA and master’s degree from MIT, I’ve explored the intersections of artificial intelligence, data science, and cloud-native solutions.
 
 <div align="center">
   <h2>Tech Stack & Expertise</h2>
@@ -41,7 +41,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
 
 #### My Role at Anuclei
 
-As the founder of Anuclei, I steer a unique venture that operates as both a consultancy and an incubator, specializing in the development of innovative AI and software solutions. My work encompasses advanced research and development in artificial intelligence, focusing on creating tailored solutions for a diverse range of clients, including nonprofits, stealth startups, and enterprise security firms.
+As the founder of [Anuclei](https://anuclei.com), I steer a unique venture that operates as both a consultancy and an incubator, specializing in the development of innovative AI and software solutions. My work encompasses advanced research and development in artificial intelligence, focusing on creating tailored solutions for a diverse range of clients, including nonprofits, stealth startups, and enterprise security firms.
 
 At Anuclei, I lead the design and implementation of cutting-edge AI-driven systems and ensure the seamless integration of machine learning into real-world applications. By combining technical leadership with a passion for problem-solving, I foster collaboration across teams and guide initiatives that push the boundaries of what's possible in technology.
 
