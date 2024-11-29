@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>📊 My All-Time GitHub Contributions</h2>
-  <img src="[Contributions](https://github.com/markjacksonfishing/markjacksonfishing/blob/main/contributions.png)" alt="Mark Jackson's GitHub Contributions" />
+  <img src="./contributions.png" alt="Mark Jackson's GitHub Contributions" />
   <p>Total Contributions: <b>22,677</b></p>
 </div>
 
