@@ -1,0 +1,33 @@
+name: Generate GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0" # Regenerate metrics every week
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: markjacksonfishing
+          template: classic
+          config: |
+            plugins:
+              contributions: yes
+              streaks: yes
+              languages: yes
+              activity: yes
+          output: metrics.svg
+
+      - name: Push to Repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub Metrics"
+          file_pattern: "metrics.svg"
