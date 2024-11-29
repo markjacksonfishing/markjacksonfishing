@@ -2,8 +2,9 @@
 
 My name is Mark Jackson. I am the founder and AI developer in residence at [Anuclei](https://anuclei.com), where we are at the forefront of data science, machine learning, and artificial intelligence innovation. I hold a BA and a master's degree from MIT. A strong foundation in my personal and professional life grounds me. I cherish time spent with family and friends, and I am an avid supporter of the San Francisco Giants.
 
-### 🛠 Tech Stack & Expertise
+### Tech Stack & Expertise
 
+![Cloud Native](https://img.shields.io/badge/Cloud%20Native-CNCF-informational?style=for-the-badge&logo=cloudsmith&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)  
 ![Golang](https://img.shields.io/badge/Go-1.19-blue?style=for-the-badge&logo=go&logoColor=white)  
 ![Data Science](https://img.shields.io/badge/Data%20Science-Analysis-informational?style=for-the-badge&logo=apache-spark&logoColor=white)  
