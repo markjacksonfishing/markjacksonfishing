@@ -16,6 +16,9 @@ jobs:
           template: classic
           base: header, activity
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full  # Includes all years
           config_timezone: America/Los_Angeles
-          filename: metrics.svg  # Corrected parameter
+          filename: metrics.svg
+          config: |
+            plugins:
+              isocalendar:
+                duration: full  # Includes all years
