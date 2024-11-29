@@ -36,8 +36,8 @@ Throughout my career, I've had the privilege of collaborating with leading techn
     <tr>
       <td><strong>🏆 Certifications</strong></td>
       <td>
-        - **Exam Developer**: Certified Backstage Associate Certification – <a href="https://www.credly.com/badges/1b5a6de3-e6d9-452b-8752-ff8687a94d3a">View Certification</a><br>
-        - **Speaker**:<br>
+        - Exam Developer: Certified Backstage Associate Certification – <a href="https://www.credly.com/badges/1b5a6de3-e6d9-452b-8752-ff8687a94d3a">View Certification</a><br>
+        - Speaker:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;• cdCon 2020 – <a href="https://www.credly.com/badges/b59dd708-ab91-45b9-bed2-c9d3f132efcf/public_url">View Certification</a><br>
         &nbsp;&nbsp;&nbsp;&nbsp;• cdCon 2022 – <a href="https://www.credly.com/badges/554b47b8-260b-4f25-8392-6825330e7103/public_url">View Certification</a><br>
         &nbsp;&nbsp;&nbsp;&nbsp;• KubeCon + CloudNativeCon NA 2022 – <a href="https://www.credly.com/badges/75f117fb-c312-4baf-811a-9be3d5179203/public_url">View Certification</a>
