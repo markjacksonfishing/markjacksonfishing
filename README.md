@@ -32,7 +32,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
 
 <div align="center">
   <h2>🎖️ Contributions and Achievements 🎖️</h2>
-  
+  <a href="https://www.credly.com/users/marky-jackson" target="_blank">View my Credly profile</a>
   <!-- Badge Images -->
   <div>
     <img src="./cdcon-2020-speaker.png" alt="cdCon 2020 Speaker" width="150" height="150" />
