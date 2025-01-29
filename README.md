@@ -88,10 +88,6 @@ Throughout my career, I've had the privilege of collaborating with leading techn
   </table>
 </div>
 
-#### My Role at Anuclei
-
-As the founder of [Anuclei](https://anuclei.com), I steer a unique venture that operates as both a consultancy and an incubator, specializing in the development of innovative AI and software solutions. My work encompasses advanced research and development in artificial intelligence, focusing on creating tailored solutions for a diverse range of clients, including nonprofits, stealth startups, and enterprise security firms.
-
 #### Personal Interests
 
 Beyond professional pursuits, I am a culinary enthusiast. I have contributed my own recipes to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook). Additionally, I enjoy bass fishing, a pastime that brings balance and peace.
