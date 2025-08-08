@@ -1,7 +1,7 @@
 ![Mark Jackson](https://i.ibb.co/zPzLYSB/IMG-0669.jpg)
 
 <div align="center">
-  <h2>📊 My All-Time GitHub Contributions</h2>
+  <h2>My All-Time GitHub Contributions</h2>
   <img src="./contributions.png" alt="Mark Jackson's GitHub Contributions" />
   <p>Total Contributions: <b>22,677</b></p>
 </div>
@@ -31,7 +31,7 @@ My name is Mark Jackson. I combine a deep passion for innovation with a commitme
 Throughout my career, I've had the privilege of collaborating with leading technology companies, such as Blue Cross of California, Yahoo!, Symantec, HP, AT&T Labs, Sysdig, Hightail (formerly YouSendIt), Equinix Metal (formerly Packet), and Jasmine Multimedia. My professional journey has also been shaped by my service in the United States Army, where I have contributed to high-stakes operations in Iraq and Afghanistan.
 
 <div align="center">
-  <h2>🎖️ Contributions and Achievements 🎖️</h2>
+  <h2> Contributions and Achievements </h2>
   <a href="https://www.credly.com/users/marky-jackson" target="_blank">View my Credly profile</a>
   <!-- Badge Images -->
   <div>
@@ -44,7 +44,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
   <!-- Table of Achievements -->
   <table>
     <tr>
-      <td><strong>🏆 Certifications</strong></td>
+      <td><strong>Certifications</strong></td>
       <td>
         - Exam Developer: Certified Backstage Associate Certification – <a href="https://www.credly.com/badges/1b5a6de3-e6d9-452b-8752-ff8687a94d3a">View Certification</a><br>
         - Speaker:<br>
@@ -54,7 +54,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
       </td>
     </tr>
     <tr>
-      <td><strong>🔧 Open Source</strong></td>
+      <td><strong>Open Source</strong></td>
       <td>
         - Contributed to AI, machine learning, and cloud-native development.<br>
         - Jenkins Governance Board – <a href="https://groups.google.com/g/jenkinsci-dev/c/JusGlXCwbx0/m/2yHT3BFcAAAJ">Details</a><br>
@@ -63,7 +63,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
       </td>
     </tr>
     <tr>
-      <td><strong>🤝 Mentorship</strong></td>
+      <td><strong>Mentorship</strong></td>
       <td>
         - Continuous Delivery Foundation Ambassador.<br>
         - Google Summer of Code Mentor – <a href="https://summerofcode.withgoogle.com/archive/2019/organizations/4658407594786816">Details</a><br>
@@ -71,7 +71,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
       </td>
     </tr>
     <tr>
-      <td><strong>📢 Public Speaking</strong></td>
+      <td><strong>Public Speaking</strong></td>
       <td>
         - Featured by CNCF – <a href="https://www.cncf.io/blog/2020/02/18/why-i-contribute-to-the-open-source-community-and-you-should-too/">Read Article</a><br>
         - Delivered talks on AI and ML – <a href="https://www.youtube.com/watch?v=h4hKSXjCqyI">View Talk</a><br>
@@ -79,7 +79,7 @@ Throughout my career, I've had the privilege of collaborating with leading techn
       </td>
     </tr>
     <tr>
-      <td><strong>🌟 Awards</strong></td>
+      <td><strong>Awards</strong></td>
       <td>
         - Most Valuable Jenkins Advocate – <a href="https://www.businesswire.com/news/home/20200924005128/en/DevOps-World-2020-Award-Winners-Announced">Details</a><br>
         - Kubernetes Contribex Contributor Award – <a href="https://www.kubernetes.dev/community/awards/2022/#contributor-experience">Details</a>
