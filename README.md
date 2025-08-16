@@ -92,4 +92,4 @@ Throughout my career, I've had the privilege of collaborating with leading techn
 
 Beyond professional pursuits, I am a culinary enthusiast. I have contributed my own recipes to the [cloud-native community cookbook](https://github.com/cncf/cloud-native-community-cookbook). Additionally, I enjoy bass fishing, a pastime that brings balance and peace.
 
-![Mark Jackson in nature](https://i.ibb.co/v4x52NSh/IMG-2023.jpg)
+![Mark Jackson in nature](IMG_2551.jpeg)
